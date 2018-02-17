@@ -8,4 +8,6 @@ The script runs in command prompt, it will ask you for an image and depth image,
 self.separationValue affects how far apart the points are, if you increase widthValue increase this as well
 self.widthValue affects how many points are created
 self.cutoffThreshold affects where B&W images points are not added to the point cloud
+
+Covered by MIT license, feel free to utilize this if you need it
  
