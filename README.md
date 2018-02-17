@@ -1,6 +1,8 @@
 # ImageToPointCloud
 A short python script that converts an image into a point cloud
 
+https://nicolabestm.com/portfolio/image-to-point-cloud-tiny-project/
+
 Written quickly as a customized tool for an interactive museum piece using scanned dataset images as point clouds 
 
 The script runs in command prompt, it will ask you for an image and depth image, and if the image is black and white if you would like to remove points below the cut off color threshold, then it creates a ASCII .ply point cloud in the same folder the image is in
